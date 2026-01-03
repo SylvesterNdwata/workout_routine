@@ -46,9 +46,6 @@ duration = data["exercises"][0]["duration_min"]
 calories = data["exercises"][0]["nf_calories"]
 
 
-
-
-
 sheety_url = "https://api.sheety.co/5045b2d0c914791f25027f99d5619b22/workoutRotine/workouts"
 
 sheety_params = {
